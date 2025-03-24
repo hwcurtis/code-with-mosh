@@ -1,4 +1,4 @@
 first = "Mosh"
 last = "Hamedani"
-full = f"{len(first)} {last} "
+full = f"{len(first)} {2+2} "
 print(full)
