@@ -1,5 +1,6 @@
 def greet(first_name, last_name):
-    print(f"Hi {first_name} {last_name}")
-    print("Welcome aboard")
+    print(f"{first_name} {last_name}")
+    print("Welcome Aboard")
 
-    greet("Hope", "Curtis")
+
+greet("Jo", "Shmoo")
